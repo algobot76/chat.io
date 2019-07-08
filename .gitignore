@@ -4,6 +4,11 @@ node_modules
 # Logs
 debug.log
 
-# misc
+# System
 .DS_Store
+
+# WebStorm
 .idea/
+
+# Config
+config.js
