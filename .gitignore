@@ -3,3 +3,7 @@ node_modules
 
 # Logs
 debug.log
+
+# misc
+.DS_Store
+.idea/
